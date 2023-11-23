@@ -28,7 +28,7 @@ async function sentmailclient(){
             service : 'gmail',
                auth  : {
                 user:'priyanshjain1610@gmail.com',
-                pass:'yycipwllcjfvofsl'   // ohbsgprfnfjotodu for 
+                pass:'tkxh shdz nqek rjjv'   // ohbsgprfnfjotodu for 
             }  })
 
     //configure mmail
